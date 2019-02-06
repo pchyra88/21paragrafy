@@ -1,0 +1,13 @@
+div {
+    width: 100px;
+    height: 100px;
+}
+body {
+    background-color: aqua;
+}
+#o1,#o2,#o3 {
+    background-color: rgb(255, 0, 0)
+}
+#o4,#o5 {
+    background-color: rgba(255, 0, 0, 50%)
+}
